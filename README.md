@@ -12,3 +12,5 @@ Refer to [README](docs/source/index.rst#section-quickstart) for a quickstart of 
 Refer to [README](docs/source/index.rst) for this sample project documentation. 
 
 Refer to the following [readthedocs](https://caravel-sim-infrastructure.readthedocs.io/en/latest/index.html) for how to add cocotb tests to your project. 
+
+![image](https://github.com/Gowda07/smartlocksystem_tapeout/assets/142581040/6a3e612b-4e06-448c-8928-cbeeec28659f)
